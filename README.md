@@ -8,9 +8,9 @@ I've used Power BI to visualize IRCC's open data on Express Entry and Permanent 
 
 My goal was to make a compelling and user-friendly product from raw data that delivers key insights.
 
-What do the charts tell?
+Some key highlights from the analysis:
 1. Seasonality: From 2015 to 2025, excluding 2020 and 2022, permanent resident admissions have typically exhibited a cyclical pattern, characterized by an upward trend in the first half of the year and a subsequent downward trend beginning in July. This seasonality is more significant in "Business" category, hitting its peak at July 2024.
-2. The Express Entry pool's 701-1200 CRS score range is trending upward, signaling increased competition📈. This underscores the value of tracking and interpreting these trends to inform immigration strategies.
+2. The Express Entry pool's 701-1200 CRS score range is trending upward, signaling increased competition📈. This highlights the significance of tracking and interpreting these trends to inform immigration strategies.
 3. Ontario accounts for the majority of candidates, followed by British Columbia and Alberta (Quebec is not included in federal Express Entry data)
 4. Categorical Express Entry draws show clear score differentials: Healthcare🩺 consistently ranks lowest, followed by French🥐, then STEM🔬. Especially Healthcare and French have a serious score advantage over general draws in 2024. This data highlights strategic opportunities for candidates within these targeted streams.
 
@@ -25,4 +25,6 @@ The report/dashboard includes four pages:
 3. PR Admissions by Category: A bar chart shows admissions by category over time. A trend line tracks the median lowest CRS score, revealing score increases or decreases. Plus, a cumulative distribution chart shows candidate scores in the Express Entry pool. 
 4. Score comparison: Healthcare and French categories versus general. Each boxplot chart shows the score advantage of the respective category over the general draws.
 
-Note that the upcoming removal of LMIA-based job offer points could lead to a lower downward shift in the overall distribution of scores.
+What's ahead of us?
+
+The upcoming removal of LMIA-based job offer points 's expected to lead to a lower downward shift in the overall distribution of scores in the future.
